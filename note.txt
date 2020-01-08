@@ -1,0 +1,6 @@
+Shared parts to change
+
+- header
+- contents menu titles
+- links
+- kill click link 
